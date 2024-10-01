@@ -1,5 +1,5 @@
 ﻿//Abaixo segue um exemplo de código que você pode ou não utilizar
-/*//Abaixo segue um exemplo de código que você pode ou não utilizar
+/*
 using System; 
 
 class minhaClasse {
