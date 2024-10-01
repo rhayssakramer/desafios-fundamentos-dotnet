@@ -1,0 +1,15 @@
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\bin\Debug\net8.0\Desafio#02.exe
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\bin\Debug\net8.0\Desafio#02.deps.json
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\bin\Debug\net8.0\Desafio#02.runtimeconfig.json
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\bin\Debug\net8.0\Desafio#02.dll
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\bin\Debug\net8.0\Desafio#02.pdb
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\Desafio#02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\Desafio#02.AssemblyInfoInputs.cache
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\Desafio#02.AssemblyInfo.cs
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\Desafio#02.csproj.CoreCompileInputs.cache
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\Desafio#02.sourcelink.json
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\Desafio#02.dll
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\refint\Desafio#02.dll
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\Desafio#02.pdb
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\Desafio#02.genruntimeconfig.cache
+C:\Users\r.bezerra.de.melo\Documents\GitHub\desafios-fundamentos-dotnet\Desafio#02\obj\Debug\net8.0\ref\Desafio#02.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#01\\Desafio#01.csproj": {}
+    "C:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#02\\Desafio#02.csproj": {}
   },
   "projects": {
-    "c:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#01\\Desafio#01.csproj": {
+    "C:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#02\\Desafio#02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#01\\Desafio#01.csproj",
-        "projectName": "Desafio#01",
-        "projectPath": "c:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#01\\Desafio#01.csproj",
+        "projectUniqueName": "C:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#02\\Desafio#02.csproj",
+        "projectName": "Desafio#02",
+        "projectPath": "C:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#02\\Desafio#02.csproj",
         "packagesPath": "C:\\Users\\r.bezerra.de.melo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#01\\obj\\",
+        "outputPath": "C:\\Users\\r.bezerra.de.melo\\Documents\\GitHub\\desafios-fundamentos-dotnet\\Desafio#02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
